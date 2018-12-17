@@ -12,12 +12,13 @@ body {
 h2 {
   font-size: 1.7rem;
   font-weight: normal;
-  color: #399bd1;
+  color: #5B2D86;
 }
 
 h3 {
   font-size: 1.3rem;
   font-weight: 300;
+  color: #5B2D86;
 }
 
 img {
@@ -86,7 +87,7 @@ img {
 }
 
 .background-bike {
-  background-image: url("../images/jumbotron-bike.jpg");
+  background-image: url("../images/mae-webbanner.gif");
 }
 
 .background-beer {
@@ -163,7 +164,7 @@ img {
 }
 
 .categories h3 {
-  color: #399bd1;
+  color: #5B2D86;
 }
 
 .categories ul {
