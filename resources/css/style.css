@@ -1,11 +1,3 @@
-/* Fonts */
-
-    @font-face{
-        font-family:"Futura PT W05 Book";
-        src:url("Fonts/5683465/7fdf487b-7c8b-4322-8f73-7c144585dd1e.eot?#iefix");
-        src:url("Fonts/5683465/7fdf487b-7c8b-4322-8f73-7c144585dd1e.eot?#iefix") format("eot"),url("Fonts/5683465/2f9125bf-73f7-4c5e-a833-3986ae71580e.woff2") format("woff2"),url("Fonts/5683465/53388cd0-0996-4cd5-804e-fcf62f2b87f7.woff") format("woff"),url("Fonts/5683465/1d4fc1cb-76ab-4e66-9f4c-7b0032682d4e.ttf") format("truetype");
-    }
-
 /* Universal Styles */
 
 html {
@@ -13,7 +5,7 @@ html {
 }
 
 body {
-  font-family: "Futura PT", sans-serif;
+  font-family: "Futura PT W05 Book", sans-serif;
   line-height: 1.4;
 }
 
