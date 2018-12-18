@@ -2,11 +2,13 @@
 
 html {
   font-size: 14px;
+  background-color: #5B2D86;
 }
 
 body {
-  font-family: "Futura PT W05 Book", sans-serif;
+  font-family: "Futura PT W05 Book", "Helvetica", sans-serif;
   line-height: 1.4;
+  background-color: #FFFFF;
 }
 
 h2 {
@@ -91,7 +93,7 @@ img {
 }
 
 .background-beer {
-  background-image: url("../images/jumbotron-beer.jpg");
+  background-image: url("../images/mae-webbanner2.gif");
 }
 
 .background-flowers {
@@ -99,7 +101,7 @@ img {
 }
 
 .background-duffel {
-  background-image: url("../images/jumbotron-duffel.jpg");
+  background-image: url("../images/cakes.gif");
 }
 
 .jumbotron h1 {
